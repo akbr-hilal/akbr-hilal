@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hilal Akbar</h1>
 <h3 align="center">A specialize in Frontend Developer & UI/UX Design from Indonesian</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akbr-hilal&label=Profile%20views&color=0e75b6&style=flat" alt="akbr-hilal" /> </p>
+
 - 🌱 I’m currently learning **Framework VueJS, AngularJS, and Tailwind**
 
 - 💬 Ask me about **ReactJS, Bootstrap, and HTML/CSS**
@@ -20,5 +22,3 @@
 <p><a href="https://www.buymeacoffee.com/hilalakbr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hilalakbr" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akbr-hilal&show_icons=true&locale=en&layout=compact" alt="akbr-hilal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akbr-hilal&" alt="akbr-hilal" /></p>
